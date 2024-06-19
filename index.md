@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![NerdsplanationsLogo](NSLogo.png)
+![NerdsplanationsLogo](/img/NSLogo.png)
 
 Welcome to the Nerdsplanations Podcast Website
 Consturction Happening
